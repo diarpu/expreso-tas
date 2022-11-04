@@ -1,0 +1,44 @@
+{
+    "name": "",
+    "short_name": "",
+    "description": "",
+    "id": "/",
+    "start_url": "/?pwa",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "orientation": "portrait-primary",
+    "lang": "es",
+    "icons": [
+      {
+        "src": "./favicons/72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "./favicons/114.png",
+        "type": "image/png",
+        "sizes": "114x114"
+      },
+      {
+        "src": "./favicons/144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "./favicons/192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./favicons/256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "./favicons/512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
